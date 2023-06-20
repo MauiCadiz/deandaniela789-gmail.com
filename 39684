@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        Final Examination
+    </title>
+    <link rel="shortcut icon" href="favicon.png" type="image/png" sizes="16x16">
+       <style>
+       body {
+        background-image:url("2f58064a2e573e20b4f8d035cf65acad.jpg");
+       background-repeat:no-repeat;
+       background-attachment:fixed;
+       background-size:100%;
+       }
+       ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+iframe {
+    border: 1px solid black;
+    width: 100%;
+}
+</style>
+</head>
+<body>
+    <ul>
+  <li><a class="active" href="Final Exam.html" taget="_top">Home
+  </a></li>
+  <li><a href="#article1">1st Article</a>
+  </li>
+  <li><a href="#article2">2nd Article</a>
+  </li>
+  <li><a href="#article3">3rd Article</a>
+  </li>
+  <li><a href="#summary">Summary</a></li>
+</ul>
+<table width = "100%" border = "0"> 
+<tr> 
+<td colspan = "2" 
+bgcolor = "#b5dcb3"> 
+<center>
+<h1>Technology - A life-changing Era</h1> 
+</center>
+</td> 
+</tr> 
+<tr valign = "top"> 
+<td bgcolor = "#eee" width = "80"> 
+<a href="https://www.philsca.edu.ph/"><img src="Philippine_State_College_of_Aeronautics.png" alt="Visit our school" style="width:100px;height:100px;"></a>
+<p><h1>Information:</h1></p>
+<br/> 
+<hr>
+<hr>
+<h2 style="background-color:#b5dcb3">
+About School: </h2>
+<a href="https://www.philsca.edu.ph/">
+Philippine State College of Aeronautics 
+</a>
+<br/>
+<h2 style="background-color:#b5dcb3 ">
+Email:</h2>
+<a href ="mauicadiz98@gmail.com">
+mauicadiz98@gmail.com </a>
+<br /> 
+<h2 style="background-color:#b5dcb3">
+Facebook:</h2>
+<a href="https://www.facebook.com/maui.cadiz.9?mibextid=ZbWKwL">Maui Cadiz</a>
+<br/>
+<center>
+<h2 style="background-color:#b5dcb3 ">
+ Buy Some Clothes Now</h2>
+<a href="https://m.shein.com/ph/"><img src="maite-perroni-shein.gif" alt="HTML tutorial" style="width:150px;height:150px;"></a>
+<br/>
+Shop affordable and fashionable women's clothing online.✓Cash On Delivery ✓Get P150 Off Your First Order ✓1000+ New Arrivals Dropped Daily.
+    </center>
+<h2 style="background-color:#b5dcb3">
+You Can Watch Anime Here:</h2>
+<iframe src="https://www1.gogoanime.bid/" style="border:0px #ffffff none;" name="gogoanime" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="500px" width="600px" allowfullscreen></iframe>
+Gogoanime is a free Anime running website that gives online anime content at no cost. You get numerous anime movies, short stories, and TV suggestions to keep you stuck to this site. You get several sorts like romance, mystery, etc. The first-rate element approximately Gogoanime is the site is always up to date. 
+<h2 style="background-color:#b5dcb3">
+    Whatch Some Free Movies Here: </h2>
+<iframe src="https://soap2day.to/" style="border:10px ##000000e4 none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+Soap2Day is a popular free online movie streaming site where you can watch up to tens of thousands of movies and TV shows in HD quality at no cost. Our database covers all genres and subgenres to make sure no matter what mood you are in, you can always find something interesting to watch on Soap2Day.
+<hr>
+<hr>
+<br /> 
+</td> 
+<td width = "100" height = "500"> 
+<hr>
+<hr>
+<article> <center>
+<h2 style="background-color:#b5dcb3" id="article1">
+    Technology change our lives </h2>
+ <a href="https://pin.it/2Y9x3kN"><img src="3d4a17be95c8848121c1a9edabc43762.jpg" alt="image1" style="width:300;height:250px;"></a>
+ <p>There are many more people online today than there were previously. Technology has changed how we entertain ourselves, interact with one another, and consume various forms of information. It has the in amusing advances, but it has also resulted in significant safety advances in home security and medical devices. Technology has also resulted in the creation of brand new devices in recent decades, such as smartwatches, tablets, and voice assistant devices. We may use these devices to rapidly transfer money and make purchases for everything from clothing and accessories to meal delivery, groceries, furniture, and more.It might be difficult to adjust when there are so many new technology to keep track of. All of these new technologies, however, are intended to make your life easier. Learning how to use smart phones, smartwatches, and voice assistants may not feel easy at first, but it only takes a little time and effort.</p>
+  </center>
+</article>
+<hr>
+<hr>
+<article>
+    <center>
+<h2 style="background-color:#b5dcb3" id="article2">
+      Positive Effect of Technology</h2>
+<a href="https://pin.it/29qfBjj"><img src="61efd0e7f4351f44421fa150599bb96a.jpg" alt="image2" style="width:300;height:250px;"></a>
+    </center>
+  <p>Without technology, humankind would not be able to survive. Its significance is further emphasized by the Covid outbreak. In these trying times, technology has been essential for keeping in touch, working from home, and getting access to healthcare.
+Technology is essential for higher security, improved communication, increased information, education, and, last but not least, entertainment.</p>
+</article>
+<hr>
+<hr>
+<article>
+    <center>
+  <h2 style="background-color:#b5dcb3" 
+  id ="article3">
+      Negative Effect of Technology</h2>
+<a href="https://pin.it/EZ1R6cg"><img src="ced18f073b91262f8eb0c582f2051b1f.jpg" alt="image3" style="width:300;height:250px;"></a>
+    </center>
+  <p>Even though some forms of technology may have had a positive impact on the world, there is also evidence of technology's serious effects and overuse. Social media and mobile devices can cause emotional and behavioral problems, such as eyestrain and difficulties concentrating on crucial tasks. <br/>They may also lead to more significant health issues like depression.
+ </p>
+</article>
+<hr>
+<hr>
+<center>
+<h2 style="background-color:#b5dcb3" 
+  id ="summary">Summary</h2>
+<a href="https://pin.it/6ciUxpd"><img src="c533dbaf32b83fcd74107acad874caad.jpg" alt="image4" style="width:300;height:250px;"></a>
+</center>
+  Technology has advanced significantly during the past few decades. Consider how prevalent the internet is in daily tasks as an example. It is practically impossible to complete a task without utilizing technology of some kind. Similar, it is neither practicable nor feasible to completely stop using technology. It has both favorable and unfavorable effects. It's no secret that technology has aided us in unfathomable ways and is continuing to do so with constant advancements for the betterment of humanity. Some of the positives include adding satisfaction, improving communication channels, erasing geographical boundaries, and some negatives include rotundity, health issues, sleep problems, etc. The phrase mortal body is formed of cells, which progress with the progress around them, but over-progression of cells leads to cancer is used to describe how cells in the body age. Humanity is preoccupied with development because it is good. However, it has a variety of external and internal difficulties. The fact that the entire generation is on high alert and exhibiting increased rates of sadness, less physical activity, and decreased capacity to concentrate are clear indicators of these issues. Technology is also dangerous when it becomes redundant, so take a break now and then from all the barriers surrounding you and unwind. 
+  <hr>
+  <hr>
+</td> 
+</tr> 
+<tr> 
+<td colspan = "2" bgcolor = "#b5dcb3"> <center> © Copyright </center> 
+</td> 
+</tr> 
+</table>
+</body>
+</html>
